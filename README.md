@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans！
+
+Long live LUOLI98
